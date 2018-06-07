@@ -238,7 +238,7 @@ namespace Com.Wiseape.ERP.ApplicationManager.Webservice
 		
 
         /// <summary>
-        /// Updates  Application Group's application Group Icon which has specified idApplicationGroup
+        /// Updates  the aaaaa Application Group's application Group Icon which has specified idApplicationGroup
         /// </summary>
 		/// <param name="idApplicationGroup">id Application Group</param>
 		/// <param name="applicationGroupIcon">application Group Icon</param>
