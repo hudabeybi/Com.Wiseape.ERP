@@ -1,0 +1,95 @@
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Framework\bin\Debug\Com.Wiseape.Framework.dll.config
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Framework\bin\Debug\Com.Wiseape.Framework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Framework\bin\Debug\Com.Wiseape.Framework.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Framework\bin\Debug\Com.Wiseape.Utility.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Framework\bin\Debug\EntityFramework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Framework\bin\Debug\EntityFramework.SqlServer.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Framework\bin\Debug\Com.Wiseape.Utility.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Framework\bin\Debug\EntityFramework.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Framework\bin\Debug\EntityFramework.SqlServer.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Framework\bin\Debug\System.Linq.Dynamic.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Framework.dll.config
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Framework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Framework.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.csprojResolveAssemblyReference.cache
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.pdb
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Framework.dll.config
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Framework.dll
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Framework.pdb
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.csprojResolveAssemblyReference.cache
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.dll
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.UserManagement\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Framework.dll.config
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.UserManagement\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Framework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.UserManagement\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Framework.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.UserManagement\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.csprojResolveAssemblyReference.cache
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.UserManagement\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.UserManagement\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Lafonte\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Framework.dll.config
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Lafonte\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Framework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Lafonte\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Framework.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Lafonte\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.csprojResolveAssemblyReference.cache
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Lafonte\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Lafonte\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Library\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Framework.dll.config
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Library\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Framework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Library\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Framework.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Library\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.csprojResolveAssemblyReference.cache
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Library\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Library\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.pdb
+D:\Utilities\Templates\WSTemplate\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.csprojResolveAssemblyReference.cache
+D:\Utilities\Templates\WSTemplate\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.dll
+D:\Utilities\Templates\WSTemplate\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.pdb
+D:\Utilities\Templates\WSTemplate\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\Com.Wiseape.Framework.dll.config
+D:\Utilities\Templates\WSTemplate\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\Com.Wiseape.Framework.dll
+D:\Utilities\Templates\WSTemplate\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\Com.Wiseape.Framework.pdb
+D:\Utilities\Templates\WSTemplate\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\Com.Wiseape.Factory.dll
+D:\Utilities\Templates\WSTemplate\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\Com.Wiseape.Utility.dll
+D:\Utilities\Templates\WSTemplate\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\EntityFramework.dll
+D:\Utilities\Templates\WSTemplate\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\EntityFramework.SqlServer.dll
+D:\Utilities\Templates\WSTemplate\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\System.Linq.Dynamic.dll
+D:\Utilities\Templates\WSTemplate\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\Newtonsoft.Json.dll
+D:\Utilities\Templates\WSTemplate\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\Com.Wiseape.Factory.pdb
+D:\Utilities\Templates\WSTemplate\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\Com.Wiseape.Utility.pdb
+D:\Utilities\Templates\WSTemplate\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\EntityFramework.xml
+D:\Utilities\Templates\WSTemplate\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\EntityFramework.SqlServer.xml
+D:\Utilities\Templates\WSTemplate\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\Newtonsoft.Json.xml
+D:\Source Codes\Com.Trakindo\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\Com.Wiseape.Framework.dll.config
+D:\Source Codes\Com.Trakindo\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\Com.Wiseape.Framework.dll
+D:\Source Codes\Com.Trakindo\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\Com.Wiseape.Framework.pdb
+D:\Source Codes\Com.Trakindo\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\Com.Wiseape.Factory.dll
+D:\Source Codes\Com.Trakindo\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\Com.Wiseape.Utility.dll
+D:\Source Codes\Com.Trakindo\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\EntityFramework.dll
+D:\Source Codes\Com.Trakindo\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\EntityFramework.SqlServer.dll
+D:\Source Codes\Com.Trakindo\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\System.Linq.Dynamic.dll
+D:\Source Codes\Com.Trakindo\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\Newtonsoft.Json.dll
+D:\Source Codes\Com.Trakindo\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\Com.Wiseape.Factory.pdb
+D:\Source Codes\Com.Trakindo\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\Com.Wiseape.Utility.pdb
+D:\Source Codes\Com.Trakindo\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\EntityFramework.xml
+D:\Source Codes\Com.Trakindo\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\EntityFramework.SqlServer.xml
+D:\Source Codes\Com.Trakindo\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\Newtonsoft.Json.xml
+D:\Source Codes\Com.Trakindo\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.csprojResolveAssemblyReference.cache
+D:\Source Codes\Com.Trakindo\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.dll
+D:\Source Codes\Com.Trakindo\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.pdb
+D:\Utilities\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.csprojResolveAssemblyReference.cache
+D:\Utilities\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.dll
+D:\Utilities\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\Com.Wiseape.Framework.dll.config
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\Com.Wiseape.Framework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\Com.Wiseape.Framework.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\Com.Wiseape.Factory.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\Com.Wiseape.Utility.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\EntityFramework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\EntityFramework.SqlServer.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\System.Linq.Dynamic.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\Newtonsoft.Json.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\MimeTypeMap.List.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\Com.Wiseape.Factory.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\Com.Wiseape.Utility.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\EntityFramework.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\EntityFramework.SqlServer.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\bin\Debug\Newtonsoft.Json.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.csprojResolveAssemblyReference.cache
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\obj\Debug\Com.Wiseape.Framework.pdb

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfFactoryConfigurationItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FactoryConfigurationItem>
+    <Key>HR.Employee</Key>
+    <DllName>Com.Wiseape.ERP.HR.Repository.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.HR.Repository.Service.EmployeeRepository</ClassName>
+    <ClassInfo>Repository for employee module</ClassInfo>
+  </FactoryConfigurationItem>
+</ArrayOfFactoryConfigurationItem>

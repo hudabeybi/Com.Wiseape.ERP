@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfFactoryConfigurationItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <FactoryConfigurationItem>
+    <Key>Find.ERP.ApplicationManager.ApplicationGroup</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.Repository.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.Repository.Service.FindApplicationGroupRepository</ClassName>
+    <ClassInfo>Repository Service containing search functions for ApplicationGroup Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.ERP.ApplicationManager.ApplicationGroup</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.Repository.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.Repository.Service.UpdateApplicationGroupRepository</ClassName>
+    <ClassInfo>Repository Service containing update functions for ApplicationGroup Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.ERP.ApplicationManager.ApplicationGroup</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.Repository.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.Repository.Service.DeleteApplicationGroupRepository</ClassName>
+    <ClassInfo>Repository Service containing Delete functions for ApplicationGroup Module</ClassInfo>
+  </FactoryConfigurationItem>
+
+  <FactoryConfigurationItem>
+    <Key>Find.ERP.ApplicationManager.ApplicationItem</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.Repository.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.Repository.Service.FindApplicationItemRepository</ClassName>
+    <ClassInfo>Repository Service containing search functions for ApplicationItem Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.ERP.ApplicationManager.ApplicationItem</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.Repository.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.Repository.Service.UpdateApplicationItemRepository</ClassName>
+    <ClassInfo>Repository Service containing update functions for ApplicationItem Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.ERP.ApplicationManager.ApplicationItem</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.Repository.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.Repository.Service.DeleteApplicationItemRepository</ClassName>
+    <ClassInfo>Repository Service containing Delete functions for ApplicationItem Module</ClassInfo>
+  </FactoryConfigurationItem>
+
+  <FactoryConfigurationItem>
+    <Key>Find.ERP.ApplicationManager.ApplicationSetting</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.Repository.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.Repository.Service.FindApplicationSettingRepository</ClassName>
+    <ClassInfo>Repository Service containing search functions for ApplicationSetting Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.ERP.ApplicationManager.ApplicationSetting</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.Repository.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.Repository.Service.UpdateApplicationSettingRepository</ClassName>
+    <ClassInfo>Repository Service containing update functions for ApplicationSetting Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.ERP.ApplicationManager.ApplicationSetting</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.Repository.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.Repository.Service.DeleteApplicationSettingRepository</ClassName>
+    <ClassInfo>Repository Service containing Delete functions for ApplicationSetting Module</ClassInfo>
+  </FactoryConfigurationItem>
+
+  <FactoryConfigurationItem>
+    <Key>Find.ERP.ApplicationManager.Theme</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.Repository.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.Repository.Service.FindThemeRepository</ClassName>
+    <ClassInfo>Repository Service containing search functions for Theme Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.ERP.ApplicationManager.Theme</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.Repository.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.Repository.Service.UpdateThemeRepository</ClassName>
+    <ClassInfo>Repository Service containing update functions for Theme Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.ERP.ApplicationManager.Theme</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.Repository.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.Repository.Service.DeleteThemeRepository</ClassName>
+    <ClassInfo>Repository Service containing Delete functions for Theme Module</ClassInfo>
+  </FactoryConfigurationItem>
+
+  <FactoryConfigurationItem>
+    <Key>Find.ERP.ApplicationManager.GlobalApplicationSetting</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.Repository.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.Repository.Service.FindGlobalApplicationSettingRepository</ClassName>
+    <ClassInfo>Repository Service containing search functions for GlobalApplicationSetting Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.ERP.ApplicationManager.GlobalApplicationSetting</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.Repository.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.Repository.Service.UpdateGlobalApplicationSettingRepository</ClassName>
+    <ClassInfo>Repository Service containing update functions for GlobalApplicationSetting Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.ERP.ApplicationManager.GlobalApplicationSetting</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.Repository.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.Repository.Service.DeleteGlobalApplicationSettingRepository</ClassName>
+    <ClassInfo>Repository Service containing Delete functions for GlobalApplicationSetting Module</ClassInfo>
+  </FactoryConfigurationItem>
+
+  <FactoryConfigurationItem>
+    <Key>Find.ERP.ApplicationManager.GlobalApplicationSettingTemplate</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.Repository.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.Repository.Service.FindGlobalApplicationSettingTemplateRepository</ClassName>
+    <ClassInfo>Repository Service containing search functions for GlobalApplicationSettingTemplate Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.ERP.ApplicationManager.GlobalApplicationSettingTemplate</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.Repository.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.Repository.Service.UpdateGlobalApplicationSettingTemplateRepository</ClassName>
+    <ClassInfo>Repository Service containing update functions for GlobalApplicationSettingTemplate Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.ERP.ApplicationManager.GlobalApplicationSettingTemplate</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.Repository.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.Repository.Service.DeleteGlobalApplicationSettingTemplateRepository</ClassName>
+    <ClassInfo>Repository Service containing Delete functions for GlobalApplicationSettingTemplate Module</ClassInfo>
+  </FactoryConfigurationItem>
+
+</ArrayOfFactoryConfigurationItem>

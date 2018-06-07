@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfFactoryConfigurationItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FactoryConfigurationItem>
+    <Key>HR.Employee</Key>
+    <DllName>Com.Wiseape.ERP.HR.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.HR.View.Service.Validator.EmployeeValidator</ClassName>
+    <ClassInfo>Validator for Employee module</ClassInfo>
+  </FactoryConfigurationItem>
+</ArrayOfFactoryConfigurationItem>

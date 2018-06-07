@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfFactoryConfigurationItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <FactoryConfigurationItem>
+    <Key>Find.ERP.ApplicationManager.ApplicationGroup</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.Business.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.Business.Service.FindApplicationGroupBusinessService</ClassName>
+    <ClassInfo>Business Service containing search functions for ApplicationGroup Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.ERP.ApplicationManager.ApplicationGroup</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.Business.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.Business.Service.UpdateApplicationGroupBusinessService</ClassName>
+    <ClassInfo>Business Service containing update functions for ApplicationGroup Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.ERP.ApplicationManager.ApplicationGroup</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.Business.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.Business.Service.DeleteApplicationGroupBusinessService</ClassName>
+    <ClassInfo>Business Service containing Delete functions for ApplicationGroup Module</ClassInfo>
+  </FactoryConfigurationItem>
+
+  <FactoryConfigurationItem>
+    <Key>Find.ERP.ApplicationManager.ApplicationItem</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.Business.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.Business.Service.FindApplicationItemBusinessService</ClassName>
+    <ClassInfo>Business Service containing search functions for ApplicationItem Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.ERP.ApplicationManager.ApplicationItem</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.Business.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.Business.Service.UpdateApplicationItemBusinessService</ClassName>
+    <ClassInfo>Business Service containing update functions for ApplicationItem Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.ERP.ApplicationManager.ApplicationItem</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.Business.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.Business.Service.DeleteApplicationItemBusinessService</ClassName>
+    <ClassInfo>Business Service containing Delete functions for ApplicationItem Module</ClassInfo>
+  </FactoryConfigurationItem>
+
+  <FactoryConfigurationItem>
+    <Key>Find.ERP.ApplicationManager.ApplicationSetting</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.Business.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.Business.Service.FindApplicationSettingBusinessService</ClassName>
+    <ClassInfo>Business Service containing search functions for ApplicationSetting Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.ERP.ApplicationManager.ApplicationSetting</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.Business.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.Business.Service.UpdateApplicationSettingBusinessService</ClassName>
+    <ClassInfo>Business Service containing update functions for ApplicationSetting Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.ERP.ApplicationManager.ApplicationSetting</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.Business.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.Business.Service.DeleteApplicationSettingBusinessService</ClassName>
+    <ClassInfo>Business Service containing Delete functions for ApplicationSetting Module</ClassInfo>
+  </FactoryConfigurationItem>
+
+  <FactoryConfigurationItem>
+    <Key>Find.ERP.ApplicationManager.Theme</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.Business.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.Business.Service.FindThemeBusinessService</ClassName>
+    <ClassInfo>Business Service containing search functions for Theme Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.ERP.ApplicationManager.Theme</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.Business.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.Business.Service.UpdateThemeBusinessService</ClassName>
+    <ClassInfo>Business Service containing update functions for Theme Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.ERP.ApplicationManager.Theme</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.Business.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.Business.Service.DeleteThemeBusinessService</ClassName>
+    <ClassInfo>Business Service containing Delete functions for Theme Module</ClassInfo>
+  </FactoryConfigurationItem>
+
+  <FactoryConfigurationItem>
+    <Key>Find.ERP.ApplicationManager.GlobalApplicationSetting</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.Business.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.Business.Service.FindGlobalApplicationSettingBusinessService</ClassName>
+    <ClassInfo>Business Service containing search functions for GlobalApplicationSetting Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.ERP.ApplicationManager.GlobalApplicationSetting</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.Business.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.Business.Service.UpdateGlobalApplicationSettingBusinessService</ClassName>
+    <ClassInfo>Business Service containing update functions for GlobalApplicationSetting Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.ERP.ApplicationManager.GlobalApplicationSetting</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.Business.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.Business.Service.DeleteGlobalApplicationSettingBusinessService</ClassName>
+    <ClassInfo>Business Service containing Delete functions for GlobalApplicationSetting Module</ClassInfo>
+  </FactoryConfigurationItem>
+
+  <FactoryConfigurationItem>
+    <Key>Find.ERP.ApplicationManager.GlobalApplicationSettingTemplate</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.Business.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.Business.Service.FindGlobalApplicationSettingTemplateBusinessService</ClassName>
+    <ClassInfo>Business Service containing search functions for GlobalApplicationSettingTemplate Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.ERP.ApplicationManager.GlobalApplicationSettingTemplate</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.Business.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.Business.Service.UpdateGlobalApplicationSettingTemplateBusinessService</ClassName>
+    <ClassInfo>Business Service containing update functions for GlobalApplicationSettingTemplate Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.ERP.ApplicationManager.GlobalApplicationSettingTemplate</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.Business.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.Business.Service.DeleteGlobalApplicationSettingTemplateBusinessService</ClassName>
+    <ClassInfo>Business Service containing Delete functions for GlobalApplicationSettingTemplate Module</ClassInfo>
+  </FactoryConfigurationItem>
+
+</ArrayOfFactoryConfigurationItem>

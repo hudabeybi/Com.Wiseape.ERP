@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfFactoryConfigurationItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FactoryConfigurationItem>
+    <Key>HR.Employee</Key>
+    <DllName>Com.Wiseape.ERP.HR.Business.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.HR.Business.Service.EmployeeBusinessService</ClassName>
+    <ClassInfo>Business Service for Employee Module</ClassInfo>
+  </FactoryConfigurationItem>
+</ArrayOfFactoryConfigurationItem>

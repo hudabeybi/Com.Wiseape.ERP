@@ -1,0 +1,7 @@
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.HR\Com.Wiseape.ERP.HR.Webservice\Resources\DLL\Com.Wiseape.ERP.HR.Business.Service.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.HR\Com.Wiseape.ERP.HR.Webservice\Resources\DLL\Com.Wiseape.ERP.HR.Business.Service.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.HR\Com.Wiseape.ERP.HR.Webservice\Resources\Dlls\Com.Wiseape.ERP.HR.Business.Service.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.HR\Com.Wiseape.ERP.HR.Webservice\Resources\Dlls\Com.Wiseape.ERP.HR.Business.Service.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.HR\Com.Wiseape.ERP.HR.Business.Service\obj\Debug\Com.Wiseape.ERP.HR.Business.Service.csprojResolveAssemblyReference.cache
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.HR\Com.Wiseape.ERP.HR.Business.Service\obj\Debug\Com.Wiseape.ERP.HR.Business.Service.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.HR\Com.Wiseape.ERP.HR.Business.Service\obj\Debug\Com.Wiseape.ERP.HR.Business.Service.pdb

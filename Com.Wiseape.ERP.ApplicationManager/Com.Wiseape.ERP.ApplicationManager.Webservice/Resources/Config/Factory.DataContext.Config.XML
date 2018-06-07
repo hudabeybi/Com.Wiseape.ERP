@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfFactoryConfigurationItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <FactoryConfigurationItem>
+    <Key>Find.ERP.ApplicationManager.ApplicationGroup</Key>
+    <DllName>Com.Wiseape.ERP.Data.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.Data.Context.ERPDataContext</ClassName>
+    <ClassInfo>Data context for Find.ERP.ApplicationGroup</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.ERP.ApplicationManager.ApplicationGroup</Key>
+    <DllName>Com.Wiseape.ERP.Data.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.Data.Context.ERPDataContext</ClassName>
+    <ClassInfo>Data context for Update.ERP.ApplicationGroup</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.ERP.ApplicationManager.ApplicationGroup</Key>
+    <DllName>Com.Wiseape.ERP.Data.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.Data.Context.ERPDataContext</ClassName>
+    <ClassInfo>Data context for Delete.ERP.ApplicationGroup</ClassInfo>
+  </FactoryConfigurationItem>
+
+  <FactoryConfigurationItem>
+    <Key>Find.ERP.ApplicationManager.ApplicationItem</Key>
+    <DllName>Com.Wiseape.ERP.Data.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.Data.Context.ERPDataContext</ClassName>
+    <ClassInfo>Data context for Find.ERP.ApplicationItem</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.ERP.ApplicationManager.ApplicationItem</Key>
+    <DllName>Com.Wiseape.ERP.Data.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.Data.Context.ERPDataContext</ClassName>
+    <ClassInfo>Data context for Update.ERP.ApplicationItem</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.ERP.ApplicationManager.ApplicationItem</Key>
+    <DllName>Com.Wiseape.ERP.Data.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.Data.Context.ERPDataContext</ClassName>
+    <ClassInfo>Data context for Delete.ERP.ApplicationItem</ClassInfo>
+  </FactoryConfigurationItem>
+
+  <FactoryConfigurationItem>
+    <Key>Find.ERP.ApplicationManager.ApplicationSetting</Key>
+    <DllName>Com.Wiseape.ERP.Data.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.Data.Context.ERPDataContext</ClassName>
+    <ClassInfo>Data context for Find.ERP.ApplicationSetting</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.ERP.ApplicationManager.ApplicationSetting</Key>
+    <DllName>Com.Wiseape.ERP.Data.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.Data.Context.ERPDataContext</ClassName>
+    <ClassInfo>Data context for Update.ERP.ApplicationSetting</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.ERP.ApplicationManager.ApplicationSetting</Key>
+    <DllName>Com.Wiseape.ERP.Data.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.Data.Context.ERPDataContext</ClassName>
+    <ClassInfo>Data context for Delete.ERP.ApplicationSetting</ClassInfo>
+  </FactoryConfigurationItem>
+
+  <FactoryConfigurationItem>
+    <Key>Find.ERP.ApplicationManager.Theme</Key>
+    <DllName>Com.Wiseape.ERP.Data.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.Data.Context.ERPDataContext</ClassName>
+    <ClassInfo>Data context for Find.ERP.Theme</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.ERP.ApplicationManager.Theme</Key>
+    <DllName>Com.Wiseape.ERP.Data.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.Data.Context.ERPDataContext</ClassName>
+    <ClassInfo>Data context for Update.ERP.Theme</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.ERP.ApplicationManager.Theme</Key>
+    <DllName>Com.Wiseape.ERP.Data.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.Data.Context.ERPDataContext</ClassName>
+    <ClassInfo>Data context for Delete.ERP.Theme</ClassInfo>
+  </FactoryConfigurationItem>
+
+  <FactoryConfigurationItem>
+    <Key>Find.ERP.ApplicationManager.GlobalApplicationSetting</Key>
+    <DllName>Com.Wiseape.ERP.Data.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.Data.Context.ERPDataContext</ClassName>
+    <ClassInfo>Data context for Find.ERP.GlobalApplicationSetting</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.ERP.ApplicationManager.GlobalApplicationSetting</Key>
+    <DllName>Com.Wiseape.ERP.Data.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.Data.Context.ERPDataContext</ClassName>
+    <ClassInfo>Data context for Update.ERP.GlobalApplicationSetting</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.ERP.ApplicationManager.GlobalApplicationSetting</Key>
+    <DllName>Com.Wiseape.ERP.Data.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.Data.Context.ERPDataContext</ClassName>
+    <ClassInfo>Data context for Delete.ERP.GlobalApplicationSetting</ClassInfo>
+  </FactoryConfigurationItem>
+
+  <FactoryConfigurationItem>
+    <Key>Find.ERP.ApplicationManager.GlobalApplicationSettingTemplate</Key>
+    <DllName>Com.Wiseape.ERP.Data.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.Data.Context.ERPDataContext</ClassName>
+    <ClassInfo>Data context for Find.ERP.GlobalApplicationSettingTemplate</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.ERP.ApplicationManager.GlobalApplicationSettingTemplate</Key>
+    <DllName>Com.Wiseape.ERP.Data.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.Data.Context.ERPDataContext</ClassName>
+    <ClassInfo>Data context for Update.ERP.GlobalApplicationSettingTemplate</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.ERP.ApplicationManager.GlobalApplicationSettingTemplate</Key>
+    <DllName>Com.Wiseape.ERP.Data.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.Data.Context.ERPDataContext</ClassName>
+    <ClassInfo>Data context for Delete.ERP.GlobalApplicationSettingTemplate</ClassInfo>
+  </FactoryConfigurationItem>
+
+</ArrayOfFactoryConfigurationItem>

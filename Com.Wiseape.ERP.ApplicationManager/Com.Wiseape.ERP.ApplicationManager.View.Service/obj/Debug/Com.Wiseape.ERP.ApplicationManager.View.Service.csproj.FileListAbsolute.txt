@@ -1,0 +1,51 @@
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\Resources\DLL\Com.Wiseape.ERP.ApplicationManager.View.Service.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\Resources\DLL\Com.Wiseape.ERP.ApplicationManager.View.Service.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\Resources\Dlls\Com.Wiseape.ERP.ApplicationManager.View.Service.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\Resources\Dlls\Com.Wiseape.ERP.ApplicationManager.View.Service.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\obj\Debug\Com.Wiseape.ERP.ApplicationManager.View.Service.csprojResolveAssemblyReference.cache
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\obj\Debug\Com.Wiseape.ERP.ApplicationManager.View.Service.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\obj\Debug\Com.Wiseape.ERP.ApplicationManager.View.Service.pdb
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\Com.Wiseape.ERP.ApplicationManager.View.Service.dll
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\Com.Wiseape.ERP.ApplicationManager.View.Service.pdb
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\Com.Wiseape.Framework.dll
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\Com.Wiseape.Utility.dll
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\Com.Wiseape.ERP.Data.dll
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\Com.Wiseape.ERP.ApplicationManager.View.Contract.dll
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\Com.Wiseape.ERP.ApplicationManager.View.Model.dll
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\EntityFramework.dll
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\System.Linq.Dynamic.dll
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\Com.Wiseape.Framework.pdb
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\Com.Wiseape.Utility.pdb
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\Com.Wiseape.ERP.Data.pdb
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\Com.Wiseape.ERP.ApplicationManager.View.Contract.pdb
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\Com.Wiseape.ERP.ApplicationManager.View.Model.pdb
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\EntityFramework.xml
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\obj\Debug\Com.Wiseape.ERP.ApplicationManager.View.Service.csprojResolveAssemblyReference.cache
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\obj\Debug\Com.Wiseape.ERP.ApplicationManager.View.Service.dll
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\obj\Debug\Com.Wiseape.ERP.ApplicationManager.View.Service.pdb
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\Com.Wiseape.Factory.dll
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\Newtonsoft.Json.dll
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\Com.Wiseape.Factory.pdb
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\Newtonsoft.Json.xml
+D:\Utilities\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\obj\Debug\Com.Wiseape.ERP.ApplicationManager.View.Service.dll
+D:\Utilities\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\obj\Debug\Com.Wiseape.ERP.ApplicationManager.View.Service.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\Com.Wiseape.ERP.ApplicationManager.View.Service.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\Com.Wiseape.ERP.ApplicationManager.View.Service.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\Com.Wiseape.ERP.ApplicationManager.View.Contract.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\Com.Wiseape.ERP.ApplicationManager.View.Model.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\Com.Wiseape.ERP.Data.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\Com.Wiseape.Framework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\Com.Wiseape.Utility.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\EntityFramework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\Com.Wiseape.Factory.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\System.Linq.Dynamic.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\Newtonsoft.Json.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\MimeTypeMap.List.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\Com.Wiseape.Framework.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\Com.Wiseape.Utility.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\Com.Wiseape.ERP.Data.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\Com.Wiseape.ERP.ApplicationManager.View.Contract.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\Com.Wiseape.ERP.ApplicationManager.View.Model.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\EntityFramework.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\Com.Wiseape.Factory.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.View.Service\bin\Debug\Newtonsoft.Json.xml

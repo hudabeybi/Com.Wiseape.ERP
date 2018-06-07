@@ -1,0 +1,50 @@
+D:\Source Codes\Com.Wiseape\Com.Wiseape.PM\Com.Wiseape.PM.Shared\Com.Wiseape.Factory\bin\Debug\Com.Wiseape.Factory.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.PM\Com.Wiseape.PM.Shared\Com.Wiseape.Factory\bin\Debug\Com.Wiseape.Factory.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.PM\Com.Wiseape.PM.Shared\Com.Wiseape.Factory\bin\Debug\Com.Wiseape.Utility.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.PM\Com.Wiseape.PM.Shared\Com.Wiseape.Factory\bin\Debug\System.Net.Http.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.PM\Com.Wiseape.PM.Shared\Com.Wiseape.Factory\bin\Debug\EntityFramework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.PM\Com.Wiseape.PM.Shared\Com.Wiseape.Factory\bin\Debug\Newtonsoft.Json.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.PM\Com.Wiseape.PM.Shared\Com.Wiseape.Factory\bin\Debug\Com.Wiseape.Utility.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.PM\Com.Wiseape.PM.Shared\Com.Wiseape.Factory\bin\Debug\System.Net.Http.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.PM\Com.Wiseape.PM.Shared\Com.Wiseape.Factory\bin\Debug\EntityFramework.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.PM\Com.Wiseape.PM.Shared\Com.Wiseape.Factory\bin\Debug\Newtonsoft.Json.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.PM\Com.Wiseape.PM.Shared\Com.Wiseape.Factory\obj\Debug\Com.Wiseape.Factory.csprojResolveAssemblyReference.cache
+D:\Source Codes\Com.Wiseape\Com.Wiseape.PM\Com.Wiseape.PM.Shared\Com.Wiseape.Factory\obj\Debug\Com.Wiseape.Factory.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.PM\Com.Wiseape.PM.Shared\Com.Wiseape.Factory\obj\Debug\Com.Wiseape.Factory.pdb
+D:\Utilities\Templates\WSTemplate\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\bin\Debug\Com.Wiseape.Factory.dll
+D:\Utilities\Templates\WSTemplate\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\bin\Debug\Com.Wiseape.Factory.pdb
+D:\Utilities\Templates\WSTemplate\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\bin\Debug\Com.Wiseape.Utility.dll
+D:\Utilities\Templates\WSTemplate\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\bin\Debug\System.Net.Http.dll
+D:\Utilities\Templates\WSTemplate\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\bin\Debug\Com.Wiseape.Utility.pdb
+D:\Utilities\Templates\WSTemplate\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\bin\Debug\System.Net.Http.xml
+D:\Utilities\Templates\WSTemplate\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\obj\Debug\Com.Wiseape.Factory.csprojResolveAssemblyReference.cache
+D:\Utilities\Templates\WSTemplate\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\obj\Debug\Com.Wiseape.Factory.dll
+D:\Utilities\Templates\WSTemplate\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\obj\Debug\Com.Wiseape.Factory.pdb
+D:\Source Codes\Com.Trakindo\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\bin\Debug\Com.Wiseape.Factory.dll
+D:\Source Codes\Com.Trakindo\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\bin\Debug\Com.Wiseape.Factory.pdb
+D:\Source Codes\Com.Trakindo\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\bin\Debug\Com.Wiseape.Utility.dll
+D:\Source Codes\Com.Trakindo\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\bin\Debug\System.Net.Http.dll
+D:\Source Codes\Com.Trakindo\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\bin\Debug\EntityFramework.dll
+D:\Source Codes\Com.Trakindo\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\bin\Debug\Newtonsoft.Json.dll
+D:\Source Codes\Com.Trakindo\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\bin\Debug\Com.Wiseape.Utility.pdb
+D:\Source Codes\Com.Trakindo\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\bin\Debug\System.Net.Http.xml
+D:\Source Codes\Com.Trakindo\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\bin\Debug\EntityFramework.xml
+D:\Source Codes\Com.Trakindo\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\bin\Debug\Newtonsoft.Json.xml
+D:\Source Codes\Com.Trakindo\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\obj\Debug\Com.Wiseape.Factory.csprojResolveAssemblyReference.cache
+D:\Source Codes\Com.Trakindo\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\obj\Debug\Com.Wiseape.Factory.dll
+D:\Source Codes\Com.Trakindo\Com.Trakindo.PM\Com.Trakindo.PM.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\obj\Debug\Com.Wiseape.Factory.pdb
+D:\Utilities\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\obj\Debug\Com.Wiseape.Factory.csprojResolveAssemblyReference.cache
+D:\Utilities\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\obj\Debug\Com.Wiseape.Factory.dll
+D:\Utilities\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\obj\Debug\Com.Wiseape.Factory.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\bin\Debug\Com.Wiseape.Factory.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\bin\Debug\Com.Wiseape.Factory.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\bin\Debug\Com.Wiseape.Utility.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\bin\Debug\EntityFramework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\bin\Debug\Newtonsoft.Json.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\bin\Debug\MimeTypeMap.List.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\bin\Debug\Com.Wiseape.Utility.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\bin\Debug\EntityFramework.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\bin\Debug\Newtonsoft.Json.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\obj\Debug\Com.Wiseape.Factory.csprojResolveAssemblyReference.cache
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\obj\Debug\Com.Wiseape.Factory.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Factory\obj\Debug\Com.Wiseape.Factory.pdb

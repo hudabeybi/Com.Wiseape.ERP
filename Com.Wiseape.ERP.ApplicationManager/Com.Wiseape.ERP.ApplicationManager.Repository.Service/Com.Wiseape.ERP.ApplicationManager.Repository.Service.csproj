@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{38D37E5A-9A67-45C0-8CFF-64250935F447}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Com.Wiseape.ERP.ApplicationManager.Repository.Service</RootNamespace>
+    <AssemblyName>Com.Wiseape.ERP.ApplicationManager.Repository.Service</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\Com.Wiseape.ERP.ApplicationManager.Webservice\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\Com.Wiseape.ERP.ApplicationManager.Webservice\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+
+	<Compile Include="FindApplicationGroupRepositoryService.cs" />
+	<Compile Include="UpdateApplicationGroupRepositoryService.cs" />
+	<Compile Include="DeleteApplicationGroupRepositoryService.cs" />
+
+	<Compile Include="FindApplicationItemRepositoryService.cs" />
+	<Compile Include="UpdateApplicationItemRepositoryService.cs" />
+	<Compile Include="DeleteApplicationItemRepositoryService.cs" />
+
+	<Compile Include="FindApplicationSettingRepositoryService.cs" />
+	<Compile Include="UpdateApplicationSettingRepositoryService.cs" />
+	<Compile Include="DeleteApplicationSettingRepositoryService.cs" />
+
+	<Compile Include="FindThemeRepositoryService.cs" />
+	<Compile Include="UpdateThemeRepositoryService.cs" />
+	<Compile Include="DeleteThemeRepositoryService.cs" />
+
+	<Compile Include="FindGlobalApplicationSettingRepositoryService.cs" />
+	<Compile Include="UpdateGlobalApplicationSettingRepositoryService.cs" />
+	<Compile Include="DeleteGlobalApplicationSettingRepositoryService.cs" />
+
+	<Compile Include="FindGlobalApplicationSettingTemplateRepositoryService.cs" />
+	<Compile Include="UpdateGlobalApplicationSettingTemplateRepositoryService.cs" />
+	<Compile Include="DeleteGlobalApplicationSettingTemplateRepositoryService.cs" />
+
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Framework\Com.Wiseape.Framework.csproj">
+      <Project>{ea7e701b-2adf-48f9-98bb-a24b57e988f6}</Project>
+      <Name>Com.Wiseape.Framework</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Utility\Com.Wiseape.Utility.csproj">
+      <Project>{810642a3-d345-4864-b6f7-1eb04c2b06cf}</Project>
+      <Name>Com.Wiseape.Utility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Com.Wiseape.ERP.Shared\Com.Wiseape.ERP.Data\Com.Wiseape.ERP.Data.csproj">
+      <Project>{7e3aae64-566f-491d-970c-8598fd24923b}</Project>
+      <Name>Com.Wiseape.ERP.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Com.Wiseape.ERP.ApplicationManager.Repository.Contract\Com.Wiseape.ERP.ApplicationManager.Repository.Contract.csproj">
+      <Project>{f514d082-0846-4713-b3fb-e0127a96a516}</Project>
+      <Name>Com.Wiseape.ERP.ApplicationManager.Repository.Contract</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

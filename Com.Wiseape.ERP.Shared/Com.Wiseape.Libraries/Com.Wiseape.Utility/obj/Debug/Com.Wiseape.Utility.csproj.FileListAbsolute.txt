@@ -1,0 +1,37 @@
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Utility\bin\Debug\Com.Wiseape.Utility.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Utility\bin\Debug\Com.Wiseape.Utility.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Utility.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Utility.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Utility\obj\Debug\Com.Wiseape.Utility.csprojResolveAssemblyReference.cache
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Utility\obj\Debug\Com.Wiseape.Utility.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Utility\obj\Debug\Com.Wiseape.Utility.pdb
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Utility.dll
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Utility.pdb
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Utility\obj\Debug\Com.Wiseape.Utility.csprojResolveAssemblyReference.cache
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Utility\obj\Debug\Com.Wiseape.Utility.dll
+D:\Sample\WiseapeAppGenerate\bin\Debug\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.Utility\obj\Debug\Com.Wiseape.Utility.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.UserManagement\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Utility.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.UserManagement\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Utility.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.UserManagement\Com.Wiseape.Utility\obj\Debug\Com.Wiseape.Utility.csprojResolveAssemblyReference.cache
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.UserManagement\Com.Wiseape.Utility\obj\Debug\Com.Wiseape.Utility.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.UserManagement\Com.Wiseape.Utility\obj\Debug\Com.Wiseape.Utility.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.Email\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Utility.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.Email\Com.Wiseape.Gateway.UserManagement.Webservice\Resources\Dlls\Com.Wiseape.Utility.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.Email\Com.Wiseape.Utility\obj\Debug\Com.Wiseape.Utility.csprojResolveAssemblyReference.cache
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.Email\Com.Wiseape.Utility\obj\Debug\Com.Wiseape.Utility.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.Email\Com.Wiseape.Utility\obj\Debug\Com.Wiseape.Utility.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.Email\Com.Wiseape.Gateway.Email.Webservice\Resources\Dlls\Com.Wiseape.Utility.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Gateway.Email\Com.Wiseape.Gateway.Email.Webservice\Resources\Dlls\Com.Wiseape.Utility.pdb
+D:\Utilities\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Utility\obj\Debug\Com.Wiseape.Utility.csprojResolveAssemblyReference.cache
+D:\Utilities\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Utility\obj\Debug\Com.Wiseape.Utility.dll
+D:\Utilities\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Utility\obj\Debug\Com.Wiseape.Utility.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Gateway.Email.Webservice\Resources\Dlls\Com.Wiseape.Utility.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Gateway.Email.Webservice\Resources\Dlls\Com.Wiseape.Utility.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Utility\obj\Debug\Com.Wiseape.Utility.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Utility\obj\Debug\Com.Wiseape.Utility.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.Shared\Com.Wiseape.Libraries\Com.Wiseape.Utility\obj\Debug\Com.Wiseape.Utility.csprojResolveAssemblyReference.cache
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Common\Com.Wiseape.Common.Shared\Com.Wiseape.Libraries\Com.Wiseape.Gateway.Email.Webservice\Resources\Dlls\Com.Wiseape.Utility.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Common\Com.Wiseape.Common.Shared\Com.Wiseape.Libraries\Com.Wiseape.Gateway.Email.Webservice\Resources\Dlls\Com.Wiseape.Utility.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Common\Com.Wiseape.Common.Shared\Com.Wiseape.Libraries\Com.Wiseape.Utility\obj\Debug\Com.Wiseape.Utility.csprojResolveAssemblyReference.cache
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Common\Com.Wiseape.Common.Shared\Com.Wiseape.Libraries\Com.Wiseape.Utility\obj\Debug\Com.Wiseape.Utility.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.Common\Com.Wiseape.Common.Shared\Com.Wiseape.Libraries\Com.Wiseape.Utility\obj\Debug\Com.Wiseape.Utility.pdb

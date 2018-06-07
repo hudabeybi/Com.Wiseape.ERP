@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfFactoryConfigurationItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ 
+  <FactoryConfigurationItem>
+    <Key>Add.ERP.ApplicationManager.ApplicationGroup</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.View.Service.ApplicationGroupValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for ApplicationGroup Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.ERP.ApplicationManager.ApplicationGroup</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.View.Service.ApplicationGroupValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for ApplicationGroup Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.ERP.ApplicationManager.ApplicationGroup</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.View.Service.ApplicationGroupValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for ApplicationGroup Module</ClassInfo>
+  </FactoryConfigurationItem>
+ 
+  <FactoryConfigurationItem>
+    <Key>Add.ERP.ApplicationManager.ApplicationItem</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.View.Service.ApplicationItemValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for ApplicationItem Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.ERP.ApplicationManager.ApplicationItem</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.View.Service.ApplicationItemValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for ApplicationItem Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.ERP.ApplicationManager.ApplicationItem</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.View.Service.ApplicationItemValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for ApplicationItem Module</ClassInfo>
+  </FactoryConfigurationItem>
+ 
+  <FactoryConfigurationItem>
+    <Key>Add.ERP.ApplicationManager.ApplicationSetting</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.View.Service.ApplicationSettingValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for ApplicationSetting Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.ERP.ApplicationManager.ApplicationSetting</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.View.Service.ApplicationSettingValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for ApplicationSetting Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.ERP.ApplicationManager.ApplicationSetting</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.View.Service.ApplicationSettingValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for ApplicationSetting Module</ClassInfo>
+  </FactoryConfigurationItem>
+ 
+  <FactoryConfigurationItem>
+    <Key>Add.ERP.ApplicationManager.Theme</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.View.Service.ThemeValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for Theme Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.ERP.ApplicationManager.Theme</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.View.Service.ThemeValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for Theme Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.ERP.ApplicationManager.Theme</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.View.Service.ThemeValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for Theme Module</ClassInfo>
+  </FactoryConfigurationItem>
+ 
+  <FactoryConfigurationItem>
+    <Key>Add.ERP.ApplicationManager.GlobalApplicationSetting</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.View.Service.GlobalApplicationSettingValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for GlobalApplicationSetting Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.ERP.ApplicationManager.GlobalApplicationSetting</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.View.Service.GlobalApplicationSettingValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for GlobalApplicationSetting Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.ERP.ApplicationManager.GlobalApplicationSetting</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.View.Service.GlobalApplicationSettingValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for GlobalApplicationSetting Module</ClassInfo>
+  </FactoryConfigurationItem>
+ 
+  <FactoryConfigurationItem>
+    <Key>Add.ERP.ApplicationManager.GlobalApplicationSettingTemplate</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.View.Service.GlobalApplicationSettingTemplateValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for GlobalApplicationSettingTemplate Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Update.ERP.ApplicationManager.GlobalApplicationSettingTemplate</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.View.Service.GlobalApplicationSettingTemplateValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for GlobalApplicationSettingTemplate Module</ClassInfo>
+  </FactoryConfigurationItem>
+  <FactoryConfigurationItem>
+    <Key>Delete.ERP.ApplicationManager.GlobalApplicationSettingTemplate</Key>
+    <DllName>Com.Wiseape.ERP.ApplicationManager.View.Service.dll</DllName>
+    <ClassName>Com.Wiseape.ERP.ApplicationManager.View.Service.GlobalApplicationSettingTemplateValidator</ClassName>
+    <ClassInfo>Validator containing validation functions for GlobalApplicationSettingTemplate Module</ClassInfo>
+  </FactoryConfigurationItem>
+
+</ArrayOfFactoryConfigurationItem>

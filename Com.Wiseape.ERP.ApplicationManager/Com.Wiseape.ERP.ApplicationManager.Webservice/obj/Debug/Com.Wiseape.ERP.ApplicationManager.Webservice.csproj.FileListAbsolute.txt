@@ -1,0 +1,68 @@
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\Resources\DLL\Com.Wiseape.ERP.ApplicationManager.Webservice.dll.config
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\Resources\DLL\Com.Wiseape.ERP.ApplicationManager.Webservice.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\Resources\DLL\Com.Wiseape.ERP.ApplicationManager.Webservice.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\Resources\DLL\Com.Wiseape.ERP.Data.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\Resources\DLL\Com.Wiseape.ERP.ApplicationManager.Business.Contract.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\Resources\DLL\Com.Wiseape.ERP.ApplicationManager.View.Contract.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\Resources\DLL\Com.Wiseape.ERP.ApplicationManager.View.Model.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\Resources\DLL\Com.Wiseape.Factory.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\Resources\DLL\Com.Wiseape.Framework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\Resources\DLL\Com.Wiseape.Utility.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\Resources\DLL\EntityFramework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\Resources\DLL\System.Linq.Dynamic.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\Resources\DLL\Newtonsoft.Json.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\Resources\DLL\Com.Wiseape.Framework.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\Resources\DLL\Com.Wiseape.Utility.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\Resources\DLL\Com.Wiseape.ERP.Data.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\Resources\DLL\Com.Wiseape.Factory.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\Resources\DLL\Com.Wiseape.ERP.ApplicationManager.Business.Contract.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\Resources\DLL\Com.Wiseape.ERP.ApplicationManager.View.Contract.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\Resources\DLL\Com.Wiseape.ERP.ApplicationManager.View.Model.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\Resources\DLL\EntityFramework.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\Resources\DLL\Newtonsoft.Json.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\obj\Debug\Com.Wiseape.ERP.ApplicationManager.Webservice.csprojResolveAssemblyReference.cache
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\obj\Debug\Com.Wiseape.ERP.ApplicationManager.Webservice.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\obj\Debug\Com.Wiseape.ERP.ApplicationManager.Webservice.pdb
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\Debug\Com.Wiseape.ERP.ApplicationManager.Webservice.dll.config
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\Debug\Com.Wiseape.ERP.ApplicationManager.Webservice.dll
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\Debug\Com.Wiseape.ERP.ApplicationManager.Webservice.pdb
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\Debug\Com.Wiseape.Framework.dll
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\Debug\Com.Wiseape.Utility.dll
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\Debug\EntityFramework.dll
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\Debug\System.Linq.Dynamic.dll
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\Debug\Com.Wiseape.Framework.pdb
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\Debug\Com.Wiseape.Utility.pdb
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\Debug\EntityFramework.xml
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\obj\Debug\Com.Wiseape.ERP.ApplicationManager.Webservice.csprojResolveAssemblyReference.cache
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\obj\Debug\Com.Wiseape.ERP.ApplicationManager.Webservice.dll
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\obj\Debug\Com.Wiseape.ERP.ApplicationManager.Webservice.pdb
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\Debug\Com.Wiseape.Factory.dll
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\Debug\Newtonsoft.Json.dll
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\Debug\Com.Wiseape.Factory.pdb
+D:\Utilities\Templates\WSTemplate\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\Debug\Newtonsoft.Json.xml
+D:\Utilities\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\obj\Debug\Com.Wiseape.ERP.ApplicationManager.Webservice.csprojResolveAssemblyReference.cache
+D:\Utilities\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\obj\Debug\Com.Wiseape.ERP.ApplicationManager.Webservice.dll
+D:\Utilities\Templates\Com.Wiseape.Webservice.Template\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\obj\Debug\Com.Wiseape.ERP.ApplicationManager.Webservice.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\Com.Wiseape.ERP.ApplicationManager.Webservice.dll.config
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\Com.Wiseape.ERP.ApplicationManager.Webservice.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\Com.Wiseape.ERP.ApplicationManager.Webservice.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\Com.Wiseape.ERP.ApplicationManager.Business.Contract.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\Com.Wiseape.ERP.ApplicationManager.Repository.Contract.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\Com.Wiseape.ERP.ApplicationManager.View.Contract.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\Com.Wiseape.ERP.Data.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\Com.Wiseape.Factory.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\Com.Wiseape.Framework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\Com.Wiseape.Utility.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\EntityFramework.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\System.Linq.Dynamic.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\Newtonsoft.Json.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\MimeTypeMap.List.dll
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\Com.Wiseape.Factory.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\Com.Wiseape.Framework.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\Com.Wiseape.Utility.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\Com.Wiseape.ERP.Data.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\Com.Wiseape.ERP.ApplicationManager.Business.Contract.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\Com.Wiseape.ERP.ApplicationManager.Repository.Contract.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\Com.Wiseape.ERP.ApplicationManager.View.Contract.pdb
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\EntityFramework.xml
+D:\Source Codes\Com.Wiseape\Com.Wiseape.ERP\Com.Wiseape.ERP.ApplicationManager\Com.Wiseape.ERP.ApplicationManager.Webservice\bin\Newtonsoft.Json.xml
